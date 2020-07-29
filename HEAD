@@ -10,5 +10,7 @@ ref: refs/heads/1st_branch
 <button>click me</button>
 <br>
 <button> click me after </button>
+<script src="script.js">
+</script>
 </body>
 </html>
